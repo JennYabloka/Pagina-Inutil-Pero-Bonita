@@ -1,0 +1,68 @@
+*{
+    margin: auto;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+
+    font-family: 'Tourney', cursive;
+    background: #ADA996;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+header {
+    font-family: 'Tourney', cursive;
+    color: #547577;
+    font-size: 60px;
+    text-decoration-line: underline;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+aside {
+    text-align: right;
+}
+nav {
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    padding: 30 px 50 px 0 0;
+}
+
+table {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+
+.McTrompas {
+    border: 5px solid rgb(154, 155, 155);
+}
+
+.Papayas {
+    border: 5px solid rgb(154, 155, 155);
+}
+
+.SpookyDance {
+    border: 5px solid rgb(154, 155, 155);
+}
+
+footer {
+    font-family: 'Righteous', cursive;
+    color: #426e70;
+    font-weight: 300;
+    margin-right: 10px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+footer>p {
+    font-size: 30px;
+    text-decoration-line: underline;
+    font-weight: 300;
+    margin-right: 10px;
+}
